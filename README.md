@@ -5,5 +5,5 @@ Example of storybook with vite and babel error
 
 ```
 yarn
-yuarn build-storybook
+yarn build-storybook
 ```
