@@ -1,0 +1,13 @@
+node_modules
+storybook-static
+.idea
+
+
+# Yarn stuff
+/**/.yarn/*
+!/**/.yarn/releases
+!/**/.yarn/plugins
+!/**/.yarn/sdks
+!/**/.yarn/versions
+/**/.pnp.*
+.DS_STORE
